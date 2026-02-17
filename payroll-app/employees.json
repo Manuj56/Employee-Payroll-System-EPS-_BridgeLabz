@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Ashutosh Diwedi",
+    "department": "CS",
+    "salary": 30000
+  },
+  {
+    "id": 2,
+    "name": "Manuj Saxena",
+    "department": "CS",
+    "salary": 50000
+  },
+  {
+    "id" : 3,
+    "name" : "Piyush Kumar",
+    "department" : "IT",
+    "salary" : 40000
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "name": "employee-payroll-system-eps-_bridgelabz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manuj56/Employee-Payroll-System-EPS-_BridgeLabz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Manuj56/Employee-Payroll-System-EPS-_BridgeLabz/issues"
+  },
+  "homepage": "https://github.com/Manuj56/Employee-Payroll-System-EPS-_BridgeLabz#readme",
+  "dependencies": {
+    "ejs": "^4.0.1",
+    "express": "^5.2.1"
+  }
+}
