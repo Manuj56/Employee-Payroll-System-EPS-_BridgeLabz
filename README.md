@@ -10,24 +10,24 @@ This project demonstrates practical implementation of CRUD operations, file hand
 
 <h3>The objective of this project is to:</h3>
 
-Maintain employee records in a structured format
+<ul><li></li>Maintain employee records in a structured format</li>
 
-Calculate payroll details dynamically
+<li>Calculate payroll details dynamically</li>
 
-Store data permanently in a JSON file
+<li>Store data permanently in a JSON file</li>
 
-Implement Create, Read, Update, and Delete (CRUD) functionality
+<li>Implement Create, Read, Update, and Delete (CRUD) functionality</li>
 
-Follow proper MVC-like structure for clean project organization
+<li>Follow proper MVC-like structure for clean project organization</li></ul>
 
 <h3>Technologies Used</h3>
 
-Node.js
+<ul><li></li>Node.js</li>
 
-Express.js
+<li>Express.js</li>
 
-EJS (Embedded JavaScript Templates)
+<li>EJS (Embedded JavaScript Templates)</li>
 
-fs.promises (File System Module)
+<li>fs.promises (File System Module)</li></ul>
 
 HTML & CSS
