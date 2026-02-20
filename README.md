@@ -32,6 +32,6 @@ This project demonstrates practical implementation of CRUD operations, file hand
   <li>EJS (Embedded JavaScript Templates)</li>
   
   <li>fs.promises (File System Module)</li>
-</ul>
 
-HTML & CSS
+  <li>HTML & CSS</li>
+</ul>
