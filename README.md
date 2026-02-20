@@ -20,7 +20,7 @@ Implement Create, Read, Update, and Delete (CRUD) functionality
 
 Follow proper MVC-like structure for clean project organization
 
-Technologies Used
+<h3>Technologies Used</h3>
 
 Node.js
 
